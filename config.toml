@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kastro.codes/quickstart-hugo/'
 languageCode = 'pt-br'
 title = 'Meu primeiro site com hugo'
 theme = "ananke"
